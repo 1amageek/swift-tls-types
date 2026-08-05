@@ -21,6 +21,6 @@ swift-tls (session contracts and adapters)
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/1amageek/swift-tls-types.git", branch: "main")
+    .package(url: "https://github.com/1amageek/swift-tls-types.git", from: "0.1.0")
 ]
 ```
