@@ -14,7 +14,7 @@ swift-tls-types (TLSTypes)
         ↓
 swift-ssl (cryptography, PKI, TLS/DTLS mechanisms)
         ↓
-swift-tls-sessions (session contracts and adapters)
+swift-tls (session contracts and adapters)
 ```
 
 ## Usage
